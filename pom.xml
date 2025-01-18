@@ -81,6 +81,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>employee-devops-integration</finalName>
 	</build>
 
 </project>
